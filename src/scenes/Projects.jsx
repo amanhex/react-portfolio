@@ -28,7 +28,7 @@ const Project = ({ title, subtitle}) => {
           {subtitle}
         </p>
       </div>
-      <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
+      <img src={require(`../assets/${projectTitle}.jpeg`)} alt={projectTitle} />
     </motion.div>
   );
 };

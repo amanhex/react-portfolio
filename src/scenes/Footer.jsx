@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="flex flex-wrap justify-between items-center">
                     <SocialMediaIcons />
                     <div className="md:flex justify-center md:justify-between text-center">
-                        <p className="font-playfair text-md text-yellow text-xl">
+                        <p className="font-playfair text-md text-yellow text-xl pb-5">
                             ©️2023 All Rights Reserved.
                         </p>
                     </div>

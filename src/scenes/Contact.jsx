@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const Contact = () => {
     return (
         <section id="contact" className="mt-2">
-            <img src='/assets/contact-image.jpeg' alt="contact-image" className="flex items-center justify-center w-full scale-50 rounded-full mb-8" />
+            <img src={require('../assets/contact-image.jpeg')} alt="contact-image" className="flex items-center justify-center w-full scale-50 rounded-full mb-8" />
             <motion.div
                 className="md:w-2/5 mx-auto text-center"
                 initial="hidden"
