@@ -118,7 +118,7 @@ const MySkills = () => {
                         <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
                     </div>
                     <p className="mt-5">
-                    <span className="font-playfair font-semibold text-xl mt-3">C, C++, Pyhton, Java</span>
+                    <span className="font-playfair font-semibold text-xl mt-3">C, C++, Python, Java</span>
                     {/* <br />Competitive coding improves problem-solving skills, increases coding speed, 
                     exposes individuals to new ideas and techniques, and can create career opportunities. */}
                     </p>

@@ -8,7 +8,7 @@ const Footer = () => {
                     <SocialMediaIcons />
                     <div className="md:flex justify-center md:justify-between text-center">
                         <p className="font-playfair text-md text-yellow text-xl pb-5">
-                            ©️2023 All Rights Reserved.
+                            <span className="font-semibold">©️2023 - </span> All Rights Reserved.
                         </p>
                     </div>
                 </div>
