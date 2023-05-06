@@ -3,7 +3,7 @@
   <a href="https://amanhex.github.io/react-portfolio/" target="_blank">Aman's Portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./readme-img1.png" />
 </div>
 
 <br/>
