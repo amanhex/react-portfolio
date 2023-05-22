@@ -1,12 +1,15 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.fd992cf9.css",
-    "main.js": "/react-portfolio/static/js/main.6fa065c5.js",
+    "main.js": "/react-portfolio/static/js/main.c930598a.js",
     "static/media/profile-image.png": "/react-portfolio/static/media/profile-image.f430fb388abd96f26791.png",
     "static/media/project-3.jpeg": "/react-portfolio/static/media/project-3.1a3628b5798b9600bcda.jpeg",
     "static/media/project-1.jpeg": "/react-portfolio/static/media/project-1.1ce29559f7483932bbc9.jpeg",
     "static/media/project-2.jpeg": "/react-portfolio/static/media/project-2.c0cc05e45d6eb50685b3.jpeg",
+    "static/media/project-5.jpeg": "/react-portfolio/static/media/project-5.4668b8380fd288732525.jpeg",
+    "static/media/project-6.jpeg": "/react-portfolio/static/media/project-6.bdc34969685d11cc0d84.jpeg",
     "static/media/contact-image.jpeg": "/react-portfolio/static/media/contact-image.6d4f2c4a4f3719ea99e2.jpeg",
+    "static/media/project-4.jpeg": "/react-portfolio/static/media/project-4.c69b36f7e796ec75be83.jpeg",
     "static/media/skills-image.png": "/react-portfolio/static/media/skills-image.b69d726d8c6731a6ae55.png",
     "static/media/brush.png": "/react-portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/github-icon.svg": "/react-portfolio/static/media/github-icon.15e0a110ba634e5ab793efb6bbcf90d3.svg",
@@ -14,10 +17,10 @@
     "static/media/close-icon.svg": "/react-portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
     "static/media/menu-icon.svg": "/react-portfolio/static/media/menu-icon.9cbfc3090b4b0aec575128df8ede3633.svg",
     "main.fd992cf9.css.map": "/react-portfolio/static/css/main.fd992cf9.css.map",
-    "main.6fa065c5.js.map": "/react-portfolio/static/js/main.6fa065c5.js.map"
+    "main.c930598a.js.map": "/react-portfolio/static/js/main.c930598a.js.map"
   },
   "entrypoints": [
     "static/css/main.fd992cf9.css",
-    "static/js/main.6fa065c5.js"
+    "static/js/main.c930598a.js"
   ]
 }
