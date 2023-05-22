@@ -72,9 +72,14 @@ const Projects = () => {
           viewport={{ once: true, amount: 0.2 }}
         >
           {/* ROW 1 */}
-          <Project title="Project 1" subtitle="College's Technical Club Website Using HTML, CSS, JavaScript etc" />
-          <Project title="Project 2" subtitle="Portfolio Using HTML, CSS, ReactJS, TailWind CSS, Framer-Motion"/>
-          <Project title="Project 3" subtitle="Car Parking Management System using C++" />
+          <Project title="Project 1" subtitle="College's Technical Club Website Created Using HTML, CSS, JavaScript etc" />
+          <Project title="Project 2" subtitle="Portfolio Created Using HTML, CSS, ReactJS, TailWind CSS, Framer-Motion"/>
+          <Project title="Project 3" subtitle="Car Parking Management System developed using C++" />
+          
+          {/* ROW 2 */}
+          <Project title="Project 4" subtitle="OTP-Verify-Page Created Using React" />
+          <Project title="Project 5" subtitle="Flask-File-Upload App Developed Using Flask" />
+          <Project title="Project 6" subtitle="Chat-Assist, A ChatBot Developed Using Flask" />
         </motion.div>
       </div>
     </section>
