@@ -77,7 +77,7 @@ const Projects = () => {
           <Project title="Project 3" subtitle="Car Parking Management System developed using C++" />
           
           {/* ROW 2 */}
-          <Project title="Project 4" subtitle="OTP-Verify-Page Created Using React" />
+          <Project title="Project 4" subtitle="GitQuest Created Using React" />
           <Project title="Project 5" subtitle="Flask-File-Upload App Developed Using Flask" />
           <Project title="Project 6" subtitle="Chat-Assist, A ChatBot Developed Using Flask" />
         </motion.div>

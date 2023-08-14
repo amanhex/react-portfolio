@@ -66,8 +66,8 @@ const MySkills = () => {
                         </div>
                         <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
                     </div>
-                    <p className="mt-5">
-                        <span className="font-playfair font-semibold text-xl mt-3">Business Development Intern</span>
+                    <p className="mt-5">     
+                        <span className="font-playfair font-semibold text-xl mt-3">Python Development Intern | Business Development Intern</span>
                         {/* <br></br>Designed several ideas for company’s logo and poster.
                         <br></br>Researched and analyzed Car sales data and maintained record. */}
                     </p>
