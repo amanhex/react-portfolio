@@ -10,11 +10,11 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) &nbsp;
+<!-- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp; -->
+<!-- [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) &nbsp; -->
+<!-- [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp; -->
+<!-- [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) &nbsp; -->
+<!-- [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) &nbsp; -->
 
 </center>
 
