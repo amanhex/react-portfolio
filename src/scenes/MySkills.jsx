@@ -25,7 +25,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            An Grad with Web development and Data Structures and Algorithms
+            A Grad with Web development and Data Structures and Algorithms
             knowledge, Machine Learning, coupled with a passion for coding,
             possessing a wide range of skills that are highly valuable in the
             tech industry.
